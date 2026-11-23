@@ -1,0 +1,41 @@
+{
+  "architecture": "LSTM",
+  "feature_set": "classical",
+  "selected_seed": 42,
+  "selection_rule": "Highest mean validation PR-AUC across configurations, followed by highest validation PR-AUC among seeds",
+  "mean_configuration_validation_PR_AUC": 0.11062845065265277,
+  "selected_run_validation_PR_AUC": 0.1172502678974008,
+  "test_metrics": {
+    "n": 1290,
+    "positives": 84,
+    "PR_AUC": 0.0851766350660015,
+    "ROC_AUC": 0.6424919055516071,
+    "precision_05": 0.06349206349206349,
+    "recall_05": 0.14285714285714285,
+    "F1_05": 0.08791208791208792
+  },
+  "feature_columns": [
+    "SP500_vol30",
+    "SP500_acf30",
+    "SP500_ewma_vol",
+    "SP500_ret5",
+    "DOW_vol30",
+    "DOW_acf30",
+    "DOW_ewma_vol",
+    "DOW_ret5",
+    "NASDAQ_vol30",
+    "NASDAQ_acf30",
+    "NASDAQ_ewma_vol",
+    "NASDAQ_ret5",
+    "RUSSELL2000_vol30",
+    "RUSSELL2000_acf30",
+    "RUSSELL2000_ewma_vol",
+    "RUSSELL2000_ret5",
+    "cross_absret",
+    "cross_dispersion"
+  ],
+  "sequence_length": 30,
+  "horizon_days": 30,
+  "classification_threshold": 0.5,
+  "original_run_folder": "/content/drive/MyDrive/AXIOM_IE643_CourseProject_IntensiveAssessment/experiments/classical_lstm/run_001"
+}

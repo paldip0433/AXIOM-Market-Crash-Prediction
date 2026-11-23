@@ -1,0 +1,2 @@
+architecture,feature_group,seed,parameters,best_epoch,validation_AP,validation_ROC,test_AP,test_ROC,training_seconds,run_dir
+Transformer,combined,123,19649,1,0.05420026593665115,0.48762779671062384,0.1423519683845073,0.7817953881386718,2.34100604057312,/content/drive/MyDrive/AXIOM_IE643_CourseProject_IntensiveAssessment/novelty_assessment/experiments/architecture_comparison/Transformer/combined/seed_123

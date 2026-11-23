@@ -1,0 +1,2 @@
+architecture,feature_group,seed,parameters,best_epoch,validation_AP,validation_ROC,test_AP,test_ROC,training_seconds,run_dir
+LSTM,enhanced_h1,42,11297,2,0.07068459602622817,0.5578233812416655,0.24775306568088468,0.886786306562426,1.3779547214508057,/content/drive/MyDrive/AXIOM_IE643_CourseProject_IntensiveAssessment/novelty_assessment/experiments/architecture_comparison/LSTM/enhanced_h1/seed_42

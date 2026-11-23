@@ -1,0 +1,2 @@
+architecture,feature_group,seed,parameters,best_epoch,validation_AP,validation_ROC,test_AP,test_ROC,training_seconds,run_dir
+BiLSTM,classical,123,13377,1,0.06774727053051097,0.5351533560527486,0.12995900228227683,0.7769584616599542,1.6591055393218994,/content/drive/MyDrive/AXIOM_IE643_CourseProject_IntensiveAssessment/novelty_assessment/experiments/architecture_comparison/BiLSTM/classical/seed_123

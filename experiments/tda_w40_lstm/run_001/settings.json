@@ -1,0 +1,30 @@
+{
+  "architecture": "LSTM",
+  "feature_set": "tda_w40",
+  "feature_columns": [
+    "H0_w40_total_persistence",
+    "H0_w40_max_persistence",
+    "H0_w40_L1",
+    "H0_w40_L2",
+    "H1_w40_total_persistence",
+    "H1_w40_max_persistence",
+    "H1_w40_L1",
+    "H1_w40_L2",
+    "H1_w40_landscape_change"
+  ],
+  "seed": 42,
+  "epochs_allowed": 25,
+  "patience": 5,
+  "learning_rate": 0.001,
+  "batch_size": 128,
+  "sequence_length": 30,
+  "horizon": 30,
+  "crash_threshold": 0.1,
+  "train_end_date": "2016-03-31",
+  "validation_start_date": "2016-05-13",
+  "test_start_date": "2021-06-28",
+  "device": "cuda",
+  "python": "3.13.16",
+  "torch": "2.11.0+cu130",
+  "gpu": "Tesla T4"
+}

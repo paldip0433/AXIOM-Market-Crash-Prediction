@@ -1,0 +1,4 @@
+fold,train_start,train_end,train_n,train_positives,train_episodes,validation_start,validation_end,validation_n,validation_positives,validation_episodes,test_start,test_end,test_n,test_positives,test_episodes
+1,1992-08-05,2003-11-17,2846,191,13,2004-01-02,2006-11-15,725,0,0,2007-01-03,2009-11-17,726,150,13
+2,1992-08-05,2009-11-17,4357,341,26,2010-01-04,2012-11-15,724,47,3,2013-01-02,2015-11-17,726,26,2
+3,1992-08-05,2015-11-17,5867,414,31,2016-01-04,2018-11-14,724,8,2,2019-01-02,2020-11-17,475,41,3

@@ -1,0 +1,2 @@
+architecture,feature_group,seed,parameters,best_epoch,validation_AP,validation_ROC,test_AP,test_ROC,training_seconds,run_dir
+Transformer,enhanced_h1,2026,19841,1,0.05543404345082826,0.5086432557909815,0.15496842128688595,0.8061577035457631,2.3092098236083984,/content/drive/MyDrive/AXIOM_IE643_CourseProject_IntensiveAssessment/novelty_assessment/experiments/architecture_comparison/Transformer/enhanced_h1/seed_2026

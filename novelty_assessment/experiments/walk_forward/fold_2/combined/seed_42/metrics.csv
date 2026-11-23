@@ -1,0 +1,2 @@
+fold,feature_group,seed,best_epoch,validation_loss,validation_AP,validation_ROC,test_AP,test_ROC,training_seconds,run_dir
+2,combined,42,1,1.3938081435735714,0.04437476610861565,0.3024607938653006,0.019418647694357673,0.04851648351648353,1.133289098739624,/content/drive/MyDrive/AXIOM_IE643_CourseProject_IntensiveAssessment/novelty_assessment/experiments/walk_forward/fold_2/combined/seed_42

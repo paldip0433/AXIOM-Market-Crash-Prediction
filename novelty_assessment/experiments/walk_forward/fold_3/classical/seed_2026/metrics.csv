@@ -1,0 +1,2 @@
+fold,feature_group,seed,best_epoch,validation_loss,validation_AP,validation_ROC,test_AP,test_ROC,training_seconds,run_dir
+3,classical,2026,5,0.4109692389135203,0.032451016489868444,0.8135474860335197,0.09196730685793042,0.4058109475103968,1.6480791568756104,/content/drive/MyDrive/AXIOM_IE643_CourseProject_IntensiveAssessment/novelty_assessment/experiments/walk_forward/fold_3/classical/seed_2026

@@ -1,0 +1,4 @@
+fold,train_start,train_end,validation_start,validation_end,test_start,test_end,train_n,validation_n,test_n,train_positives,validation_positives,test_positives
+1,1992-08-05,2008-04-22,2008-06-05,2009-04-22,2009-06-05,2010-04-22,3959,222,222,206,123,10
+2,1992-08-05,2010-05-03,2010-06-16,2011-05-02,2011-06-15,2012-05-01,4470,222,222,358,0,28
+3,1992-08-05,2012-05-11,2012-06-26,2013-05-15,2013-06-28,2014-05-15,4982,222,222,388,0,0

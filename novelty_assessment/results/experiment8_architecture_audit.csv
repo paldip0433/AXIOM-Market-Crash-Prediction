@@ -1,0 +1,10 @@
+architecture,feature_group,parameters,output_shape,status
+LSTM,classical,6689,"(4,)",PASS
+LSTM,combined,10529,"(4,)",PASS
+LSTM,enhanced_h1,11297,"(4,)",PASS
+BiLSTM,classical,13377,"(4,)",PASS
+BiLSTM,combined,21057,"(4,)",PASS
+BiLSTM,enhanced_h1,22593,"(4,)",PASS
+Transformer,classical,18689,"(4,)",PASS
+Transformer,combined,19649,"(4,)",PASS
+Transformer,enhanced_h1,19841,"(4,)",PASS
