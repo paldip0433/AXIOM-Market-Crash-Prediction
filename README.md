@@ -134,7 +134,7 @@ The basic order is:
 
 The full TDA calculation can take time. In the original configuration, `MAX_TDA_WINDOWS = 200` in `code/config.py` can be used for a quick check, while `None` is used for the full calculation. A quick run is not the same as reproducing the reported results.
 
-**Note:** The original Colab notebook may not be included in this GitHub upload. The scripts, saved outputs and report are provided here, but I have not verified a clean end-to-end run from a fresh clone.
+
 
 
 
