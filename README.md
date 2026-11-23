@@ -121,8 +121,6 @@ The root folder also contains the final report, presentation slides and the four
 
 The project was developed in **Google Colab**, with the files stored in Google Drive.
 
-The original workflow uses `AXIOM_Main.ipynb` and the scripts in `code/`. The raw index files are in `data/raw/`.
-
 The basic order is:
 
 1. Prepare and align the four index series.
